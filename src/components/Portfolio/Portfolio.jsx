@@ -26,7 +26,7 @@ const Portfolio = () => {
 
 
   <div className="bodys" style={{borderRadius:'50px',height:"auto"}}>
-  <a href='https://ottomon-bed-uk.vercel.app/beds/DoubleBeds'>
+  {/* <a href='https://ottomon-bed-uk.vercel.app/beds/DoubleBeds'>
 
 <div class="card-wrap bbbb">
 <div class="card-header one" style={{ height: '200px' }}>
@@ -40,7 +40,7 @@ const Portfolio = () => {
     <button class="card-btn one">Click</button>
   </a>
 </div>
-</div></a>
+</div></a> */}
   <a href='https://welcome.doingthistogether.com/MainScreen'>
 
   <div class="card-wrap bbbb">
@@ -71,7 +71,7 @@ const Portfolio = () => {
   </div>
 </div>
 </a>
-<a href='https://petite-vase.surge.sh'> 
+<a href='https://saloonshop.vercel.app/'> 
 <div class="card-wrap">
   <div class="card-header three">
   <img src='https://res.cloudinary.com/alpja/image/upload/v1704651644/ueg5qjvk46j6jhqofvfu.png' alt="" style={{ width: '100%', height: '100%' }} />
@@ -80,7 +80,7 @@ const Portfolio = () => {
     <h1 class="card-title">Saloon Shop/Services website in React js and Node js</h1>
     <p class="card-text">A React js project
     with bootstrap5 and some animations click below to view</p>
-    <a href='https://petite-vase.surge.sh'> <button class="card-btn three">Click</button></a>
+    <a href='https://saloonshop.vercel.app/'> <button class="card-btn three">Click</button></a>
  </div>
 </div></a>
 <a href='https://medassist.devforhealth.com/'> 
@@ -99,7 +99,7 @@ const Portfolio = () => {
 <a href='https://dtt.devforhealth.com//'> 
 <div class="card-wrap">
   <div class="card-header four">
-  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1713245683/mngrpaatwjx0pbjisjg9.png' alt="" style={{ width: '100%', height: '100%' }} />
+  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1751025951/e912186f-8c8f-4909-837d-96fd724492d5.png' alt="" style={{ width: '100%', height: '100%' }} />
   </div>
 
   <div class="card-content">
@@ -114,7 +114,7 @@ const Portfolio = () => {
 <a href='https://app.silvercareagency.com/'> 
 <div class="card-wrap">
   <div class="card-header four">
-  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1713249233/Silvercare_h51ei1.png' alt="" style={{ width: '100%', height: '100%' }} />
+  <img src='https://res.cloudinary.com/dgmjg9zr4/image/upload/v1751025776/f44248e4-a6fd-4822-823b-10f2673394bd.png' alt="" style={{ width: '100%', height: '100%' }} />
   </div>
 
   <div class="card-content">
