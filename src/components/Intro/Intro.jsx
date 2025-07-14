@@ -34,48 +34,44 @@ const Intro = () => {
 
 
           <span style={{ color: darkMode ? "white" : "white" }}>Hy! I Am</span>
-     <h3 className="animate-charcter">Ehtesham Ali</h3>
+     <h3 className="animate-charcter">Muhammad Fahad Butt</h3>
            <span style={{fontWeight:'bold',color:"cyan"}}>
 
 
 
-     <span class="title-word title-word-1">Senior Frontend Developer</span>
+     <span class="title-word title-word-1">Junior  Frontend INTERN</span>
     <span class="title-word title-word-2"> with</span>
-    <span class="title-word title-word-3"> 3 years experience</span>
-    <span class="title-word title-word-4"> Next.js React</span>
+    <span class="title-word title-word-3"> 3 Months experience</span>
+    <span class="title-word title-word-4"> html css bootstrap </span>
   
 
           </span>
         </div>
-        <a href="https://wa.me/+923105321069" smooth={true} spy={true}>
+        <a href="https://wa.me/+923005324792" smooth={true} spy={true}>
           <button className="button i-button">Hire me</button>
         </a>
-        {/* social icons */}
-        <div className="i-icons">
+         {/* <div className="i-icons">
         <a
                   className="nav-link text-light"
-                  href="https://github.com/Ehteshambutt"
+                  href="https://github.com/Fahadbutt"
                 > <img src={Github} alt="" /></a>
-          {/* <img src={Github} alt="" /> */}
-          <a
+           <a
                   className="nav-link text-light"
-                  href="https://www.linkedin.com/in/ehtesham-butt-837200162/"
+                  href="https://www.linkedin.com/in/Fahad-butt-837200162/"
                 > <img src={LinkedIn} alt="" /></a>
           
           <a
                   className="nav-link text-light"
-                  href="https://www.instagram.com/ehteshambutt58/"
+                  href="https://www.instagram.com/Fahadbutt58/"
                 >   <img src={Instagram} alt="" /></a>
         
-        </div>
+        </div> */}
       </div>
-      {/* right image side */}
-      <div className="i-right crwn1">
+       <div className="i-right crwn1">
         <img src={Vector1} alt="" />
         <img src={Vector2} alt="" />
-        <img src={boy} alt="" />
-        {/* animation */}
-        <motion.img
+        {/* <img src={boy} alt="" /> */}
+         <motion.img
           initial={{ left: "-36%" }}
           whileInView={{ left: "-24%" }}
           transition={transition}
@@ -89,7 +85,7 @@ const Intro = () => {
           transition={transition}
           className="floating-div crwn"
         >
-          <FloatinDiv  img={crown} text1="Web" text2="Developer" />
+          <FloatinDiv  img={crown} text1="FRONTEND" text2="INTERN" />
         </motion.div>
 
         {/* animation */}
@@ -100,7 +96,7 @@ const Intro = () => {
           className="floating-div"
         >
           {/* floatinDiv mein change hy dark mode ka */}
-          <FloatinDiv img={thumbup} text1="React js" text2="Nextjs" />
+          <FloatinDiv img={thumbup} text1="Bootstrap" text2="html/css"  />
         </motion.div>
 
         <div className="blur" style={{ background: "rgb(238 210 255)" }}></div>

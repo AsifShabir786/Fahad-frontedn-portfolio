@@ -25,15 +25,15 @@ const Works = () => {
           </span>
           <span>Brands & Clients</span>
           <spane style={{background:"cyan"}}>
-I am senior React js/Next.js developer with 3 + years experience              <br />
-           I works as Senior Next js developer at DevForHealth,Islamabad
+I am Junior Bootstrap React INTERN with 3 + Month experience              <br />
+           I works as Junior FRONTEND INTERN at AlRightTech,Rawalpindi
              
             <br />
-            Also works as node js developer as Freelancer
+            {/* Also works as node js INTERN as Freelancer */}
             <br />
-            MERN Stack Developer
+            FRONTEND INTERN
           </spane>
-          <Link to="'https://wa.me/+923105321069'" smooth={true} spy={true}>
+          <Link to="'https://wa.me/+923005324792'" smooth={true} spy={true}>
             <button className="button s-button">Hire Me</button>
           </Link>
           <div

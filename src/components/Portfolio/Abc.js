@@ -26,7 +26,7 @@ const Portfolio = () => {
         className="portfolio-slider"
       >
               <SwiperSlide>
-          <a href='http://welcome.devforhealth.com/MainScreen'>  <img style={{ "height": "10.7rem" }} className="siderbr img3 marr mx-5" src='https://res.cloudinary.com/alpja/image/upload/v1702752171/e7dslq84hzg0wdxyyvyp.png' alt="" /></a>
+          <a href='http://welcome.AlRightTech.com/MainScreen'>  <img style={{ "height": "10.7rem" }} className="siderbr img3 marr mx-5" src='https://res.cloudinary.com/alpja/image/upload/v1702752171/e7dslq84hzg0wdxyyvyp.png' alt="" /></a>
           {/* <img  alt="" /> */}
         </SwiperSlide>
         <SwiperSlide>
@@ -40,10 +40,10 @@ const Portfolio = () => {
           <a href='https://car-sandy.vercel.app/'>  <img style={{ "height": "10.7rem" }} src={Sidebar} alt="" /></a>
         </SwiperSlide>
         <SwiperSlide >
-          <a href='https://medassist.devforhealth.com/'>  <img style={{ "height": "10.7rem" }} src={'https://res.cloudinary.com/alpja/image/upload/v1702752829/crsvhuzcpfgjvgdrdgz9.png'} alt="" /></a>
+          <a href='https://medassist.AlRightTech.com/'>  <img style={{ "height": "10.7rem" }} src={'https://res.cloudinary.com/alpja/image/upload/v1702752829/crsvhuzcpfgjvgdrdgz9.png'} alt="" /></a>
         </SwiperSlide>
         <SwiperSlide>
-          <a href='https://mern-418ex8thb-ehteshambutt.vercel.app/'>  <img style={{ "height": "10.7rem" }} className=" img2 marr" src={restorent} alt="" /></a>
+          <a href='https://FRONTEND-418ex8thb-Fahadbutt.vercel.app/'>  <img style={{ "height": "10.7rem" }} className=" img2 marr" src={restorent} alt="" /></a>
         </SwiperSlide>
       
       </Swiper>

@@ -108,14 +108,14 @@ const Services = () => {
     <span style={{ color: darkMode ? "white" : "" }}>My Awesome</span>
     <span>Projects</span>
     <span>
-      Here are links to my few React JS website projects
+      Here are links to my few Bootstrap website projects
       <br />
       <p className="mx-5">
         Click these <i className="fa-sharp fa-solid fa-3"></i> Boxes
         <i className="fa-sharp fa-solid fa-right-long ma"></i>
       </p>
     </span>
-    <a href="https://wa.me/+923105321069">
+    <a href="https://wa.me/+923005324792">
       <button className="button s-button">Whatsapp</button>
     </a>
     <div
@@ -149,7 +149,7 @@ const Services = () => {
     >
       <a
         className="nav-link text-light"
-        href="http://welcome.devforhealth.com/MainScreen"
+        href="http://welcome.AlRightTech.com/MainScreen"
       >
         <Card
           emoji={HeartEmoji}
@@ -170,7 +170,7 @@ const Services = () => {
       >
         <Card
           emoji={Glasses}
-          heading={"Developer"}
+          heading={"INTERN"}
           detail={"HTML, CSS, JavaScript, React, Nodejs, Express"}
         />
       </a>
@@ -183,12 +183,12 @@ const Services = () => {
     >
       <a
         className="nav-link text-light"
-        href="https://mern-418ex8thb-ehteshambutt.vercel.app/"
+        href="https://FRONTEND-418ex8thb-Fahadbutt.vercel.app/"
       >
         <Card
           emoji={Humble}
           heading={"Figma to"}
-          detail={"I can make your Figma design into a React JS website"}
+          detail={"I can make your Figma design into a Bootstrap website"}
           color="rgba(252, 166, 31, 0.45)"
         />
       </a>
